@@ -1,0 +1,58 @@
+# =========================
+# Android / Gradle
+# =========================
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+.idea/
+*.iml
+
+# =========================
+# Python / Backend
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+
+# =========================
+# Data Science / ML 
+# =========================
+*.csv
+*.dat
+*.out
+*.log
+.jupyter/
+.ipynb_checkpoints/
+
+# =========================
+# OS Generated
+# =========================
+.DS_Store
+Thumbs.db
